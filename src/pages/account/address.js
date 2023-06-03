@@ -82,8 +82,7 @@ const AddressPage = (props) => {
         <div className={styles.confirmDeleteContainer}>
           <h4>Delete Address?</h4>
           <p>
-            Are you sure you want to delete this address? You cannot undo this
-            action once you press <strong>'Delete'</strong>
+            JUst DO it <strong>'Delete'</strong>
           </p>
           <div className={styles.actionContainer}>
             <Button onClick={() => setShowDelete(false)} level={'primary'}>
